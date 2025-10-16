@@ -1,0 +1,8 @@
+pandas
+nltk
+scikit-learn
+gensim
+wordcloud
+matplotlib
+tensorflow
+openpyxl
